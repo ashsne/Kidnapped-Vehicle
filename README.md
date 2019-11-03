@@ -6,7 +6,7 @@
 
 |Kidnapped Vehicle Localization|
 |:--------:|
-|[![Localization](output_images/test1.jpg)](https://github.com/ashsne/Kidnapped-Vehicle/blob/master/results/self_driving_car_nanodegree_program%202019-11-03%2000-10-13.mp4)|
+|[![Localization](results/Thumbnail.png)](https://youtu.be/MT2Rai_MbWc)|
 
 
 
